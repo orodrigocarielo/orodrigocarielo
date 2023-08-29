@@ -11,8 +11,7 @@ Sou estudante de Desenvolvimento Back-End na faculdade Anhanguera e busco aprend
 ## Linguagens e Ferramentas (Aprendendo)
 
 
-<img  alt="orodrigocarielo-python" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
-<img  alt="orodrigocarielo-python" height="50" widht="50" src="https://files.softicons.com/download/system-icons/lozengue-filetype-icons-by-gurato/png/512/SQL.png" />
+<img  alt="orodrigocarielo-python" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /><img  alt="orodrigocarielo-python" height="50" widht="50" src="https://files.softicons.com/download/system-icons/lozengue-filetype-icons-by-gurato/png/512/SQL.png" />
 <img  alt="orodrigocarielo-python" height="50" widht="50" src=https://www.bs-concepts.com/wp-content/uploads/2019/06/microsoft-power-bi-shop-logo-1.png />
 
 
